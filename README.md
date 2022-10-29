@@ -10,8 +10,5 @@ Developer in python and c++
 ![sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=sql)
 ![css](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css)
 
-#### Links
 
-![codeforces](https://img.shields.io/badge/-codeforces-000000?style=for-the-badge&logo=codeforces)
-![ТЫК](https://codeforces.com/profile/peremel1h)
 
