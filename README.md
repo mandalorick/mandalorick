@@ -11,18 +11,6 @@ Developer in python and c++
 ![css](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css)
 
 
-### Statistics №1
+### Statistics
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandalorick&theme=solarized_dark)
-### Statistics №2
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mandalorick&theme=solarized_dark)
-### Statistics №3
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mandalorick&theme=solarized_dark)
-### Statistics №4
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandalorick&theme=solarized_dark)
-### Statistics №5
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandalorick&theme=solarized_dark)
