@@ -11,4 +11,5 @@ Developer in python and c++
 ![css](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css)
 
 
-
+#### Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandalorick)](https://github.com/anuraghazra/github-readme-stats)
