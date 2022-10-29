@@ -11,7 +11,7 @@ Developer in python and c++
 ![css](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css)
 
 
-#### Statistics
+### Statistics
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandalorick&theme=solarized_dark)
 
