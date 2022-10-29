@@ -15,5 +15,3 @@ Developer in python and c++
 Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandalorick&theme=solarized_dark)
 
-### Links
-![codeforces](https://codeforces.com/profile/peremel1h)
