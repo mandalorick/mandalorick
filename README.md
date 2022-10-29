@@ -3,4 +3,5 @@
 About me
 ## Developer in python and c++
 
-Languages and Tools
+##Languages and Tools
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
