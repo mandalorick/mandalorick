@@ -12,5 +12,5 @@ Developer in python and c++
 
 #### Links
 
-![[codeforces](https://img.shields.io/badge/-codeforces-000000?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/peremel1h)
+![codeforces](https://img.shields.io/badge/-codeforces-000000?style=for-the-badge&logo=codeforces) - (https://codeforces.com/profile/peremel1h)
 
