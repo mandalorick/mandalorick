@@ -13,4 +13,4 @@ Developer in python and c++
 
 ### Statistics
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandalorick&theme=solarized_dark)
+![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandalorick&theme=solarized_dark)
