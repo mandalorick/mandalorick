@@ -1,4 +1,4 @@
-![[Header](https://github.com/mandalorick/mandalorick/blob/main/assets/8jq.gif)](https://github.com/mandalorick?tab=repositories)
+![Header](https://github.com/mandalorick/mandalorick/blob/main/assets/8jq.gif)
 
 ## About me
 Developer in python and c++ 
